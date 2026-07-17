@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+bizdesk.db
+.vscode/
+.DS_Store
