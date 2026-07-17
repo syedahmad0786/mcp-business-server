@@ -7,6 +7,9 @@
   <img src="https://img.shields.io/badge/License-MIT-green" alt="MIT"/>
 </p>
 
+> ✅ **Verified end-to-end** on Windows with local Ollama (`llama3.1`, `num_ctx=8192`) — every command below is from a real run.
+
+
 **BizDesk MCP** is a Model Context Protocol server that gives Claude (or any
 MCP client) structured, read-mostly access to a small-business back office:
 customers, invoices, and account notes. Ask Claude *"who owes me money?"* and
